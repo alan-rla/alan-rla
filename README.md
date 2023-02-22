@@ -23,6 +23,10 @@
 
 ## :hammer_and_wrench: Languages and Tools :
 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="Nodejs" alt="Nodejs" width="40" height="40"/>&nbsp;
+</div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alan-rla&show_icons=true&theme=radical)
 
 <!--
