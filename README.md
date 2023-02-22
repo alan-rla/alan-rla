@@ -21,6 +21,8 @@
 
 🌱 Recently finished HangHae 99 Coding Bootcamp ('22.11 ~ '23.02)
 
+🌱 Interested in Javascript, TypeScript, Node.js, NestJS
+
 ## :hammer_and_wrench: Languages and Tools :
 
 <div>
