@@ -18,20 +18,25 @@
 ---
 
 ## 💬 About Me :
+😄 반갑습니다! 제 이름은 김수영이고 Node.js를 기반으로 백엔드를 공부하고 있습니다!
+
+😄 Greetings. My name is Su Young Kim and studying Backend development with Node.js.
+
+🌱 항해 99 수료 ('22.11 ~ '23.02)
 
 🌱 Recently finished HangHae 99 Coding Bootcamp ('22.11 ~ '23.02)
 
-🌱 Interested in Javascript, TypeScript, Node.js, NestJS
+🔭 Javascript, TypeScript, Node.js, NestJS에 관심이 있습니다
+
+🔭 Interested in Javascript, TypeScript, Node.js, NestJS
 
 ## :hammer_and_wrench: Languages and Tools :
 
-| Language      | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>&nbsp;<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;                                                                                                                                                                                                                                                                                                                                                               |
-| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Framework** | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>&nbsp;                                                                                                                                                                                                                                                          |
-| **Database**  | <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white"/>&nbsp;<img src="https://github.com/typeorm/typeorm/raw/master/resources/logo_big.png" title="TypeORM" alt="TypeORM" width="80" height="37"/>&nbsp;![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
-| **Server**    | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>&nbsp;                                                                                                                                                                                                                                                                                                                                                                                    |
-
----
+|Language|<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>&nbsp;<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;|
+|---|:---|
+|**Framework**|<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>&nbsp;|
+|**Database**| <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white"/>&nbsp;<img src="https://github.com/typeorm/typeorm/raw/master/resources/logo_big.png" title="TypeORM" alt="TypeORM" width="80" height="37"/>&nbsp;![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)|
+|**Server**| ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>&nbsp;|
 
 ## 🔥 My Stats
 
