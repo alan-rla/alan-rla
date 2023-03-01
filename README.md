@@ -20,7 +20,7 @@
 ## 💬 About Me :
 😄 반갑습니다! 제 이름은 김수영이고 Node.js를 기반으로 백엔드를 공부하고 있습니다!
 
-😄 Greetings. My name is Su Young Kim and studying Backend development with Node.js.
+😄 Greetings. My name is Su Young Kim and studying Backend development based on Node.js.
 
 🌱 항해 99 수료 ('22.11 ~ '23.02)
 
